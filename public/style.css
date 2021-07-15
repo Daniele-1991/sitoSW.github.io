@@ -5,7 +5,7 @@ body{
 .masthead {
     height: 180vh;
     min-height: 500px;
-    background-image: linear-gradient(black, transparent, black 80%), url('./media/Darth1.png');
+    background-image: linear-gradient(black, transparent, black 80%), url('.public/media/Darth1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
