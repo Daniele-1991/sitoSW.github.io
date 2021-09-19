@@ -73,7 +73,7 @@ body{
 .footerfondo{
     height: 100vh;
     min-height: 500px;
-    background-image: linear-gradient(black 20%, transparent, black 90%), url('/media/footer.jpg');
+    background-image: linear-gradient(black 20%, transparent, black 90%), url('./media/footer.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
