@@ -5,7 +5,7 @@ body{
 .masthead {
     height: 180vh;
     min-height: 500px;
-    background-image: linear-gradient(black, transparent, black 80%), url('.public/media/Darth1.png');
+    background-image: linear-gradient(black, transparent, black 80%), url('/media/Darth1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -34,7 +34,7 @@ body{
   .stardestroyer{
     height: 80vh;
     min-height: 500px;
-    background-image: url('./media/stardestroyer.png');
+    background-image: url('/media/stardestroyer.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -45,7 +45,7 @@ body{
       color: #e71c1c;
   }
   .bordocard1{
-    background: linear-gradient(120deg, black 50%, transparent, black), url(./media/stormgroup.jpg);
+    background: linear-gradient(120deg, black 50%, transparent, black), url(/media/stormgroup.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -62,7 +62,7 @@ body{
     linear-gradient(to bottom, #e71c1c 2px, transparent 2px) 100% 0,
     linear-gradient(to top, #e71c1c 2px, transparent 2px) 0 100%,
     linear-gradient(to top #e71c1c 2px, transparent 2px) 100% 100%,
-    background-repeat: no-repeat;
+    background-repeat no-repeat;
     background-size: 10px 10px
 
 }
@@ -73,7 +73,7 @@ body{
 .footerfondo{
     height: 100vh;
     min-height: 500px;
-    background-image: linear-gradient(black 20%, transparent, black 90%), url('./media/footer.jpg');
+    background-image: linear-gradient(black 20%, transparent, black 90%), url('/media/footer.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
